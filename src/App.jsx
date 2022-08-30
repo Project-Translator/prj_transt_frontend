@@ -1,13 +1,30 @@
 import './App.css';
-import React from 'react'
+import * as React from 'react';
+import { Navbar } from './components/navbar';
+import { Footer } from './components/footer';
+
+
+
 
 const App = () => {
   return (
-    <>
-    <div>
-      Project Translator  
-    </div>
-    </>
+  
+  <>
+
+      <Navbar/>
+      <h1>Hello, world!</h1>
+
+      <Footer/>
+
+  </>
+
   )
 }
+
+
 export default App;
+
+
+
+
+
