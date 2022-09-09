@@ -1,0 +1,53 @@
+.tx
+{
+left:55% ;
+}
+.txt
+{
+    margin: 4%;
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    height: 900px; 
+    width: 1800px; 
+}
+
+.txt2
+{
+    margin: 4%;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    height: 900px; 
+    width: 1800px; 
+}
+
+.btn
+{
+    top: 55%;
+    position: absolute;
+    left: 45%;
+    margin: 3%;
+    height: 200px; 
+    width: 700px; 
+}
+.list
+{
+    margin: 4%;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    height: 10px; 
+    width: 205px;  
+}
+.list2
+{
+    margin: 4%;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    height: 10px; 
+    width: 205px;  
+}
+
+
